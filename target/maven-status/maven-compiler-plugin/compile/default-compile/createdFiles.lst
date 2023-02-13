@@ -1,0 +1,6 @@
+com\ermanager\employeemanger\EmployeemangerApplication.class
+com\ermanager\employeemanger\service\EmpleadoService.class
+com\ermanager\employeemanger\model\Empleado.class
+com\ermanager\employeemanger\exception\UserNotFoundException.class
+com\ermanager\employeemanger\controller\EmpleadoController.class
+com\ermanager\employeemanger\repository\IEmpleadoRepository.class
