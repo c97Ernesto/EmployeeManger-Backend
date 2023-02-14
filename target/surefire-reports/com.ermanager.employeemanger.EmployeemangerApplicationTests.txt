@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.ermanager.employeemanger.EmployeemangerApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.366 s - in com.ermanager.employeemanger.EmployeemangerApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.731 s - in com.ermanager.employeemanger.EmployeemangerApplicationTests
