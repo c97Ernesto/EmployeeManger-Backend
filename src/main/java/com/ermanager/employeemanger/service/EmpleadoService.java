@@ -7,7 +7,6 @@ package com.ermanager.employeemanger.service;
 import com.ermanager.employeemanger.exception.UserNotFoundException;
 import com.ermanager.employeemanger.model.Empleado;
 import com.ermanager.employeemanger.repository.IEmpleadoRepository;
-import java.nio.file.attribute.UserPrincipalNotFoundException;
 import java.util.List;
 import static java.util.UUID.randomUUID;
 import org.springframework.stereotype.Service;
